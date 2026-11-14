@@ -1,0 +1,14 @@
+# CPU-only build used here: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+torchvision==0.29.2
+datasets==5.1.0
+pyarrow==26.0.1
+huggingface_hub
+calflops==0.3.2
+matplotlib
+tqdm
+ipykernel
+transformers==5.22.1
+peft==0.21.2
+accelerate==1.15.0
+trl==1.17.1

@@ -1,0 +1,502 @@
+[
+ {
+  "imagenet100_idx": 0,
+  "imagenet1k_idx": 452,
+  "name": "bonnet, poke bonnet"
+ },
+ {
+  "imagenet100_idx": 1,
+  "imagenet1k_idx": 64,
+  "name": "green mamba"
+ },
+ {
+  "imagenet100_idx": 2,
+  "imagenet1k_idx": 374,
+  "name": "langur"
+ },
+ {
+  "imagenet100_idx": 3,
+  "imagenet1k_idx": 236,
+  "name": "Doberman, Doberman pinscher"
+ },
+ {
+  "imagenet100_idx": 4,
+  "imagenet1k_idx": 993,
+  "name": "gyromitra"
+ },
+ {
+  "imagenet100_idx": 5,
+  "imagenet1k_idx": 176,
+  "name": "Saluki, gazelle hound"
+ },
+ {
+  "imagenet100_idx": 6,
+  "imagenet1k_idx": 882,
+  "name": "vacuum, vacuum cleaner"
+ },
+ {
+  "imagenet100_idx": 7,
+  "imagenet1k_idx": 904,
+  "name": "window screen"
+ },
+ {
+  "imagenet100_idx": 8,
+  "imagenet1k_idx": 503,
+  "name": "cocktail shaker"
+ },
+ {
+  "imagenet100_idx": 9,
+  "imagenet1k_idx": 74,
+  "name": "garden spider, Aranea diademata"
+ },
+ {
+  "imagenet100_idx": 10,
+  "imagenet1k_idx": 57,
+  "name": "garter snake, grass snake"
+ },
+ {
+  "imagenet100_idx": 11,
+  "imagenet1k_idx": 959,
+  "name": "carbonara"
+ },
+ {
+  "imagenet100_idx": 12,
+  "imagenet1k_idx": 953,
+  "name": "pineapple, ananas"
+ },
+ {
+  "imagenet100_idx": 13,
+  "imagenet1k_idx": 508,
+  "name": "computer keyboard, keypad"
+ },
+ {
+  "imagenet100_idx": 14,
+  "imagenet1k_idx": 872,
+  "name": "tripod"
+ },
+ {
+  "imagenet100_idx": 15,
+  "imagenet1k_idx": 228,
+  "name": "komondor"
+ },
+ {
+  "imagenet100_idx": 16,
+  "imagenet1k_idx": 122,
+  "name": "American lobster, Northern lobster, Maine lobster, Homarus americanus"
+ },
+ {
+  "imagenet100_idx": 17,
+  "imagenet1k_idx": 421,
+  "name": "bannister, banister, balustrade, balusters, handrail"
+ },
+ {
+  "imagenet100_idx": 18,
+  "imagenet1k_idx": 599,
+  "name": "honeycomb"
+ },
+ {
+  "imagenet100_idx": 19,
+  "imagenet1k_idx": 858,
+  "name": "tile roof"
+ },
+ {
+  "imagenet100_idx": 20,
+  "imagenet1k_idx": 157,
+  "name": "papillon"
+ },
+ {
+  "imagenet100_idx": 21,
+  "imagenet1k_idx": 449,
+  "name": "boathouse"
+ },
+ {
+  "imagenet100_idx": 22,
+  "imagenet1k_idx": 994,
+  "name": "stinkhorn, carrion fungus"
+ },
+ {
+  "imagenet100_idx": 23,
+  "imagenet1k_idx": 608,
+  "name": "jean, blue jean, denim"
+ },
+ {
+  "imagenet100_idx": 24,
+  "imagenet1k_idx": 151,
+  "name": "Chihuahua"
+ },
+ {
+  "imagenet100_idx": 25,
+  "imagenet1k_idx": 209,
+  "name": "Chesapeake Bay retriever"
+ },
+ {
+  "imagenet100_idx": 26,
+  "imagenet1k_idx": 15,
+  "name": "robin, American robin, Turdus migratorius"
+ },
+ {
+  "imagenet100_idx": 27,
+  "imagenet1k_idx": 876,
+  "name": "tub, vat"
+ },
+ {
+  "imagenet100_idx": 28,
+  "imagenet1k_idx": 246,
+  "name": "Great Dane"
+ },
+ {
+  "imagenet100_idx": 29,
+  "imagenet1k_idx": 766,
+  "name": "rotisserie"
+ },
+ {
+  "imagenet100_idx": 30,
+  "imagenet1k_idx": 455,
+  "name": "bottlecap"
+ },
+ {
+  "imagenet100_idx": 31,
+  "imagenet1k_idx": 857,
+  "name": "throne"
+ },
+ {
+  "imagenet100_idx": 32,
+  "imagenet1k_idx": 131,
+  "name": "little blue heron, Egretta caerulea"
+ },
+ {
+  "imagenet100_idx": 33,
+  "imagenet1k_idx": 119,
+  "name": "rock crab, Cancer irroratus"
+ },
+ {
+  "imagenet100_idx": 34,
+  "imagenet1k_idx": 234,
+  "name": "Rottweiler"
+ },
+ {
+  "imagenet100_idx": 35,
+  "imagenet1k_idx": 90,
+  "name": "lorikeet"
+ },
+ {
+  "imagenet100_idx": 36,
+  "imagenet1k_idx": 45,
+  "name": "Gila monster, Heloderma suspectum"
+ },
+ {
+  "imagenet100_idx": 37,
+  "imagenet1k_idx": 936,
+  "name": "head cabbage"
+ },
+ {
+  "imagenet100_idx": 38,
+  "imagenet1k_idx": 479,
+  "name": "car wheel"
+ },
+ {
+  "imagenet100_idx": 39,
+  "imagenet1k_idx": 272,
+  "name": "coyote, prairie wolf, brush wolf, Canis latrans"
+ },
+ {
+  "imagenet100_idx": 40,
+  "imagenet1k_idx": 665,
+  "name": "moped"
+ },
+ {
+  "imagenet100_idx": 41,
+  "imagenet1k_idx": 653,
+  "name": "milk can"
+ },
+ {
+  "imagenet100_idx": 42,
+  "imagenet1k_idx": 659,
+  "name": "mixing bowl"
+ },
+ {
+  "imagenet100_idx": 43,
+  "imagenet1k_idx": 158,
+  "name": "toy terrier"
+ },
+ {
+  "imagenet100_idx": 44,
+  "imagenet1k_idx": 960,
+  "name": "chocolate sauce, chocolate syrup"
+ },
+ {
+  "imagenet100_idx": 45,
+  "imagenet1k_idx": 765,
+  "name": "rocking chair, rocker"
+ },
+ {
+  "imagenet100_idx": 46,
+  "imagenet1k_idx": 908,
+  "name": "wing"
+ },
+ {
+  "imagenet100_idx": 47,
+  "imagenet1k_idx": 703,
+  "name": "park bench"
+ },
+ {
+  "imagenet100_idx": 48,
+  "imagenet1k_idx": 407,
+  "name": "ambulance"
+ },
+ {
+  "imagenet100_idx": 49,
+  "imagenet1k_idx": 560,
+  "name": "football helmet"
+ },
+ {
+  "imagenet100_idx": 50,
+  "imagenet1k_idx": 317,
+  "name": "leafhopper"
+ },
+ {
+  "imagenet100_idx": 51,
+  "imagenet1k_idx": 938,
+  "name": "cauliflower"
+ },
+ {
+  "imagenet100_idx": 52,
+  "imagenet1k_idx": 724,
+  "name": "pirate, pirate ship"
+ },
+ {
+  "imagenet100_idx": 53,
+  "imagenet1k_idx": 748,
+  "name": "purse"
+ },
+ {
+  "imagenet100_idx": 54,
+  "imagenet1k_idx": 331,
+  "name": "hare"
+ },
+ {
+  "imagenet100_idx": 55,
+  "imagenet1k_idx": 619,
+  "name": "lampshade, lamp shade"
+ },
+ {
+  "imagenet100_idx": 56,
+  "imagenet1k_idx": 120,
+  "name": "fiddler crab"
+ },
+ {
+  "imagenet100_idx": 57,
+  "imagenet1k_idx": 267,
+  "name": "standard poodle"
+ },
+ {
+  "imagenet100_idx": 58,
+  "imagenet1k_idx": 155,
+  "name": "Shih-Tzu"
+ },
+ {
+  "imagenet100_idx": 59,
+  "imagenet1k_idx": 708,
+  "name": "pedestal, plinth, footstall"
+ },
+ {
+  "imagenet100_idx": 60,
+  "imagenet1k_idx": 368,
+  "name": "gibbon, Hylobates lar"
+ },
+ {
+  "imagenet100_idx": 61,
+  "imagenet1k_idx": 772,
+  "name": "safety pin"
+ },
+ {
+  "imagenet100_idx": 62,
+  "imagenet1k_idx": 167,
+  "name": "English foxhound"
+ },
+ {
+  "imagenet100_idx": 63,
+  "imagenet1k_idx": 494,
+  "name": "chime, bell, gong"
+ },
+ {
+  "imagenet100_idx": 64,
+  "imagenet1k_idx": 180,
+  "name": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+ },
+ {
+  "imagenet100_idx": 65,
+  "imagenet1k_idx": 431,
+  "name": "bassinet"
+ },
+ {
+  "imagenet100_idx": 66,
+  "imagenet1k_idx": 342,
+  "name": "wild boar, boar, Sus scrofa"
+ },
+ {
+  "imagenet100_idx": 67,
+  "imagenet1k_idx": 854,
+  "name": "theater curtain, theatre curtain"
+ },
+ {
+  "imagenet100_idx": 68,
+  "imagenet1k_idx": 305,
+  "name": "dung beetle"
+ },
+ {
+  "imagenet100_idx": 69,
+  "imagenet1k_idx": 54,
+  "name": "hognose snake, puff adder, sand viper"
+ },
+ {
+  "imagenet100_idx": 70,
+  "imagenet1k_idx": 268,
+  "name": "Mexican hairless"
+ },
+ {
+  "imagenet100_idx": 71,
+  "imagenet1k_idx": 667,
+  "name": "mortarboard"
+ },
+ {
+  "imagenet100_idx": 72,
+  "imagenet1k_idx": 166,
+  "name": "Walker hound, Walker foxhound"
+ },
+ {
+  "imagenet100_idx": 73,
+  "imagenet1k_idx": 277,
+  "name": "red fox, Vulpes vulpes"
+ },
+ {
+  "imagenet100_idx": 74,
+  "imagenet1k_idx": 662,
+  "name": "modem"
+ },
+ {
+  "imagenet100_idx": 75,
+  "imagenet1k_idx": 798,
+  "name": "slide rule, slipstick"
+ },
+ {
+  "imagenet100_idx": 76,
+  "imagenet1k_idx": 313,
+  "name": "walking stick, walkingstick, stick insect"
+ },
+ {
+  "imagenet100_idx": 77,
+  "imagenet1k_idx": 498,
+  "name": "cinema, movie theater, movie theatre, movie house, picture palace"
+ },
+ {
+  "imagenet100_idx": 78,
+  "imagenet1k_idx": 299,
+  "name": "meerkat, mierkat"
+ },
+ {
+  "imagenet100_idx": 79,
+  "imagenet1k_idx": 222,
+  "name": "kuvasz"
+ },
+ {
+  "imagenet100_idx": 80,
+  "imagenet1k_idx": 682,
+  "name": "obelisk"
+ },
+ {
+  "imagenet100_idx": 81,
+  "imagenet1k_idx": 593,
+  "name": "harmonica, mouth organ, harp, mouth harp"
+ },
+ {
+  "imagenet100_idx": 82,
+  "imagenet1k_idx": 775,
+  "name": "sarong"
+ },
+ {
+  "imagenet100_idx": 83,
+  "imagenet1k_idx": 674,
+  "name": "mousetrap"
+ },
+ {
+  "imagenet100_idx": 84,
+  "imagenet1k_idx": 592,
+  "name": "hard disc, hard disk, fixed disk"
+ },
+ {
+  "imagenet100_idx": 85,
+  "imagenet1k_idx": 137,
+  "name": "American coot, marsh hen, mud hen, water hen, Fulica americana"
+ },
+ {
+  "imagenet100_idx": 86,
+  "imagenet1k_idx": 758,
+  "name": "reel"
+ },
+ {
+  "imagenet100_idx": 87,
+  "imagenet1k_idx": 717,
+  "name": "pickup, pickup truck"
+ },
+ {
+  "imagenet100_idx": 88,
+  "imagenet1k_idx": 606,
+  "name": "iron, smoothing iron"
+ },
+ {
+  "imagenet100_idx": 89,
+  "imagenet1k_idx": 281,
+  "name": "tabby, tabby cat"
+ },
+ {
+  "imagenet100_idx": 90,
+  "imagenet1k_idx": 796,
+  "name": "ski mask"
+ },
+ {
+  "imagenet100_idx": 91,
+  "imagenet1k_idx": 211,
+  "name": "vizsla, Hungarian pointer"
+ },
+ {
+  "imagenet100_idx": 92,
+  "imagenet1k_idx": 620,
+  "name": "laptop, laptop computer"
+ },
+ {
+  "imagenet100_idx": 93,
+  "imagenet1k_idx": 830,
+  "name": "stretcher"
+ },
+ {
+  "imagenet100_idx": 94,
+  "imagenet1k_idx": 544,
+  "name": "Dutch oven"
+ },
+ {
+  "imagenet100_idx": 95,
+  "imagenet1k_idx": 275,
+  "name": "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+ },
+ {
+  "imagenet100_idx": 96,
+  "imagenet1k_idx": 242,
+  "name": "boxer"
+ },
+ {
+  "imagenet100_idx": 97,
+  "imagenet1k_idx": 570,
+  "name": "gasmask, respirator, gas helmet"
+ },
+ {
+  "imagenet100_idx": 98,
+  "imagenet1k_idx": 99,
+  "name": "goose"
+ },
+ {
+  "imagenet100_idx": 99,
+  "imagenet1k_idx": 169,
+  "name": "borzoi, Russian wolfhound"
+ }
+]
