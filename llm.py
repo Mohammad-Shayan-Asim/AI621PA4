@@ -11,12 +11,39 @@ def build_messages(question):
     return [{"role": "user", "content": f"{INSTRUCTION}\n\n{question}"}]
 
 
-def extract_answer(text):
-    # first number after the last '####'; handles "1,000", "$18", "18 dollars"
-    if "####" not in text:
+NUMBER = r"-?\d[\d,]*(?:\.\d+)?"
+
+
+def boxed_content(text):
+    # contents of the last \boxed{...}, with nested braces (e.g. \boxed{\text{126}}); None if absent or unclosed
+    start = text.rfind("\\boxed{")
+    if start == -1:
         return None
-    m = re.search(r"-?\d[\d,]*(?:\.\d+)?", text.split("####")[-1])
-    return float(m.group().replace(",", "")) if m else None
+
+    i, depth = start + len("\\boxed{"), 1
+    for j in range(i, len(text)):
+        if text[j] == "{":
+            depth += 1
+        elif text[j] == "}":
+            depth -= 1
+            if depth == 0:
+                return text[i:j]
+    return None
+
+
+def extract_answer(text, boxed=False):
+    # first number after the last '####'; handles "1,000", "$18", "18 dollars"
+    # boxed=True: if there is no '####' answer, use the first number in the last \boxed{...}
+    if "####" in text:
+        m = re.search(NUMBER, text.split("####")[-1])
+        if m:
+            return float(m.group().replace(",", ""))
+
+    if boxed:
+        content = boxed_content(text)
+        m = re.search(NUMBER, content) if content else None
+        return float(m.group().replace(",", "")) if m else None
+    return None
 
 
 def check_arithmetic(text):
